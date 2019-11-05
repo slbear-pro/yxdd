@@ -1,0 +1,20 @@
+[start getdata] Tue Nov  5 00:10:03 2019
+get_access_token
+[access_token]:8143b905c73b3555a9e0703cb4d07ee6
+[starttime]== Mon Nov  4 21:33:39 2019
+[endtime]== Tue Nov  5 00:10:03 2019
+[get_jixiao_listids]
+[getjixiaolistids]循环完成:
+[]
+[save instance end]
+[<Jixiao: Jixiao object>, <Jixiao: Jixiao object>, <Jixiao: Jixiao object>]
+[instanceid=] bd634d51-ecaa-4a91-b2cf-280f0e4fd9f9
+********************bd634d51-ecaa-4a91-b2cf-280f0e4fd9f9********************
+{'process_instance_id': 'bd634d51-ecaa-4a91-b2cf-280f0e4fd9f9', 'username1': '董春晖', 'username2': '雷磊', 'date': '2019-11-04', 'comment': '行人管理2人次', 'usr1_fenzhi': '0.1', 'usr2_fenzhi': '0.1', 'create_time': '2019-11-04 18:21:21', 'result': 'agree', 'status': 'RUNNING'}
+[instanceid=] bd634d51-ecaa-4a91-b2cf-280f0e4fd9f9
+********************bd634d51-ecaa-4a91-b2cf-280f0e4fd9f9********************
+{'process_instance_id': 'bd634d51-ecaa-4a91-b2cf-280f0e4fd9f9', 'username1': '董春晖', 'username2': '雷磊', 'date': '2019-11-04', 'comment': '行人管理2人次', 'usr1_fenzhi': '0.1', 'usr2_fenzhi': '0.1', 'create_time': '2019-11-04 18:21:21', 'result': 'agree', 'status': 'RUNNING'}
+[instanceid=] a54b6d0d-775a-4ade-922f-52dfc0d45395
+********************a54b6d0d-775a-4ade-922f-52dfc0d45395********************
+{'process_instance_id': 'a54b6d0d-775a-4ade-922f-52dfc0d45395', 'username1': '贯彻', 'username2': 'null', 'comment': '完成领导交办的工作。再次走访客运企业更新整理收集客运单位基础资料台账', 'usr1_fenzhi': '0.6', 'usr2_fenzhi': 'null', 'create_time': '2019-10-31 16:58:51', 'result': 'agree', 'status': 'RUNNING'}
+[create tongji_form end]
